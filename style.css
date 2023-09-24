@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    text-decoration: underline;
+}
+
+p{
+    line-height: 40px;
+    letter-spacing: 1px;
+    text-align: justify;
+    text-transform: capitalize;
+    
+}
+
+.para{
+    text-indent: 50px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
